@@ -1,0 +1,21 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="400" height="200" fill="white"/>
+    
+    <!-- Icon: Two overlapping circles representing connection and harmony -->
+    <g transform="translate(45, 85)">
+        <circle cx="20" cy="15" r="18" fill="none" stroke="#2C3E50" stroke-width="1.5" opacity="0.6"/>
+        <circle cx="35" cy="15" r="18" fill="none" stroke="#5D6D7E" stroke-width="1.5" opacity="0.8"/>
+    </g>
+
+    <!-- Typography -->
+    <text x="105" y="95" font-family="Arial, sans-serif" font-weight="700" font-size="28" fill="#2C3E50" letter-spacing="0.5">
+        TRUE CONNECTIONS
+    </text>
+    <text x="105" y="125" font-family="Arial, sans-serif" font-weight="300" font-size="18" fill="#5D6D7E" letter-spacing="4">
+        LIFE COACHING
+    </text>
+
+    <!-- Subtle Accent Line -->
+    <line x1="105" y1="105" x2="360" y2="105" stroke="#D5D8DC" stroke-width="1" />
+</svg>
