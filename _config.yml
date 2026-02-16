@@ -20,10 +20,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://glidden-counseling.github.io'
+url: 'https://turnsole.github.io/true-connections-coaching.github.io'
 baseurl: ''
-title: 'Glidden Counseling'
-description: 'Counseling in Sand Point, ID'
+title: 'True Connections Coaching'
+description: 'Coaching in Sand Point, ID'
 permalink: pretty
 logo: "/images/logo.png"
 
