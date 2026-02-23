@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About Us
+title: Practical guidance. Genuine support. Meaningful progress.
 feature_image: "../images/Lake_Modified.jpg"
 ---
-
-# Practical guidance. Genuine support. Meaningful progress.
 
 ## True Connections helps individuals, couples, leaders, and teams move from uncertainty to clarity with coaching and consulting built around real life, real goals, and real follow-through.
 
