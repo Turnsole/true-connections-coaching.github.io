@@ -1,10 +1,8 @@
 ---
-title: Home
+title: Move from stuck to clear, confident action.
 layout: page
 feature_image: "images/Lake_Modified.jpg"
 ---
-
-# Move from stuck to clear, confident action.
 
 True Connections Life Coaching and Consultation helps individuals, couples, leaders, and teams gain clarity, solve real-life and workplace challenges, and follow through on what matters most.
 
