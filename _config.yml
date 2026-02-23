@@ -25,7 +25,7 @@ baseurl: ''
 title: 'True Connections Coaching'
 description: 'Coaching in Sand Point, ID'
 permalink: pretty
-logo: "/images/logo_svg.svg"
+logo: "/images/logo.png"
 
 # Pagination
 paginate: 5
