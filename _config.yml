@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://coachingtrueconnections.com'
+url: 'https://coaching-true-connections.github.io'
 baseurl: ''
 title: 'True Connections Coaching'
 description: 'Coaching in Sand Point, ID'
