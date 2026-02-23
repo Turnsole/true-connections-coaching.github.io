@@ -18,9 +18,7 @@ With a master’s degree in counseling and experience supporting clients since 2
 
 ### Who This Is For
 
-True Connections is for people who want more than talk. It is for people ready to move forward.
-
-Individuals navigating stress, life transitions, and personal growth
+True Connections is for people who want more than talk. It is for people ready to move forward; individuals navigating stress, life transitions, and personal growth. 
 
 - Couples who want stronger communication and healthier connection
 - Professionals pursuing career clarity and leadership growth
@@ -46,8 +44,8 @@ Strategic support for business and leadership challenges, including organization
 
 ### Simple Process
 
-- Discovery Call Share your goals, challenges, and what success would look like.
-- Clear Plan Get a focused roadmap with practical next steps.
-- Ongoing Support Build momentum through coaching or consulting sessions tailored to your needs.
+- Discovery Call: Share your goals, challenges, and what success would look like.
+- Clear Plan: Get a focused roadmap with practical next steps.
+- Ongoing Support: Build momentum through coaching or consulting sessions tailored to your needs.
 
 If you are ready for clarity, strategy, and support that leads to real change, True Connections is ready to help. 
