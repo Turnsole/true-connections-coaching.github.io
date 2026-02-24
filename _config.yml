@@ -23,7 +23,7 @@ plugins:
 url: 'https://coaching-true-connections.github.io'
 baseurl: ''
 title: 'True Connections Coaching'
-description: 'Coaching in Sand Point, ID'
+description: 'Coaching in Sandpoint, ID'
 permalink: pretty
 logo: "/images/logo.png"
 
@@ -33,13 +33,23 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
-- title: About Us
-  url: /about-us/
-- title: Contact Us
-  url: /contact-us/
-
+  - title: Home
+    url: /
+  - title: About
+    url: /about-us/
+  - title: Coaching Services
+    url: /coaching-services/
+  - title: Consulting Services
+    url: /consulting-services/
+  - title: How It Works
+    url: /how-it-works/
+  - title: FAQ
+    url: /faq/
+  - title: Testimonials
+    url: /testimonials/
+  - title: Contact / Book a Call
+    url: /contact-us/
+    
 # Footer nav
 navigation_footer:
 - title: Back to top
