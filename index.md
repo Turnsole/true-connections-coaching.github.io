@@ -9,7 +9,6 @@ True Connections Life Coaching and Consultation helps individuals, couples, lead
 Based in Sandpoint, Idaho. In-person and online services available.
 
 [Book a Discovery Call](/contact-us/)
-
 [Explore Services](/coaching-services/)
 
 ### What Makes True Connections Different
@@ -22,12 +21,10 @@ With a master’s degree in counseling and experience supporting clients since 2
 
 True Connections is for people who want more than talk. It is for people ready to move forward.
 
-<div style="margin-left: 1.25rem;">
-- Individuals navigating stress, life transitions, and personal growth
-- Couples who want stronger communication and healthier connection
-- Professionals pursuing career clarity and leadership growth
-- Teams and organizations improving communication, systems, and outcomes
-</div>
+  - Individuals navigating stress, life transitions, and personal growth
+  - Couples who want stronger communication and healthier connection
+  - Professionals pursuing career clarity and leadership growth
+  - Teams and organizations improving communication, systems, and outcomes
 
 ### How Clients Are Supported
 
@@ -58,7 +55,6 @@ Strategic support for business and leadership challenges, including organization
 If you are ready for clarity, strategy, and support that leads to real change, True Connections is ready to help.
 
 [Book a Discovery Call](/contact-us/)
-
 [Contact True Connections](/contact-us/)
 
 True Connections Life Coaching and Consultation provides coaching and consulting services only and does not provide therapy, diagnosis, or clinical mental health treatment.
