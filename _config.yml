@@ -47,7 +47,7 @@ navigation_header:
     url: /faq/
   - title: Testimonials
     url: /testimonials/
-  - title: Contact / Book a Call
+  - title: Contact 
     url: /contact-us/
     
 # Footer nav
