@@ -56,6 +56,7 @@ Strategic support for business and leadership challenges, including organization
 If you are ready for clarity, strategy, and support that leads to real change, True Connections is ready to help.
 
 [Book a Discovery Call](/contact-us/)
+
 [Contact True Connections](/contact-us/)
 
 True Connections Life Coaching and Consultation provides coaching and consulting services only and does not provide therapy, diagnosis, or clinical mental health treatment.
