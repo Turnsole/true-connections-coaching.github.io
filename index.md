@@ -21,8 +21,8 @@ With a master’s degree in counseling and experience supporting clients since 2
 
 True Connections is for people who want more than talk. It is for people ready to move forward.
 
-- Individuals navigating stress, life transitions, and personal growth
-- Couples who want stronger communication and healthier connection
+  - Individuals navigating stress, life transitions, and personal growth
+  - Couples who want stronger communication and healthier connection
 - Professionals pursuing career clarity and leadership growth
 - Teams and organizations improving communication, systems, and outcomes
 
