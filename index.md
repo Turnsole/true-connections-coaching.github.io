@@ -9,6 +9,7 @@ True Connections Life Coaching and Consultation helps individuals, couples, lead
 Based in Sandpoint, Idaho. In-person and online services available.
 
 [Book a Discovery Call](/contact-us/)
+
 [Explore Services](/coaching-services/)
 
 ### What Makes True Connections Different
