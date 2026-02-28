@@ -52,11 +52,17 @@ navigation_header:
     
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
-- title: About Us
-  url: /about-us/
-- title: Contact Us
-  url: /contact-us/
-
-
+  - title: Back to top
+    url: "#top"
+  - title: About
+    url: /about-us/
+  - title: Coaching Services
+    url: /coaching-services/
+  - title: Consulting Services
+    url: /consulting-services/
+  - title: FAQ
+    url: /faq/
+  - title: Testimonials
+    url: /testimonials/
+  - title: Contact
+    url: /contact-us/
