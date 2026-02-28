@@ -7,7 +7,7 @@ feature_image: /images/Lake_Modified.jpg
 
 True Connections offers practical, personalized coaching for individuals, couples, and leaders who want clarity, confidence, emotional wellness, and consistent follow-through.
 
-[Book a Discovery Call](/contact-us/)
+[Book a Discovery Call](/contact-us/)  
 [Start Coaching](/contact-us/)
 
 ### Coaching at True Connections
@@ -74,7 +74,7 @@ The process is practical, respectful, and focused on outcomes that matter in eve
 
 If you are ready for clarity, strategy, and support that leads to real change, True Connections is ready to help.
 
-[Book a Discovery Call](/contact-us/)
+[Book a Discovery Call](/contact-us/)  
 [Contact True Connections](/contact-us/)
 
 ### Scope Note
