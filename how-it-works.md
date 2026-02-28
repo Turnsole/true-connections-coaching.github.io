@@ -7,7 +7,7 @@ feature_image: /images/Lake_Modified.jpg
 
 Whether you need coaching, consulting, or both, True Connections uses a clear step-by-step process to help you gain clarity, take action, and build lasting momentum.
 
-[Book a Discovery Call](/contact-us/)
+[Book a Discovery Call](/contact-us/)  
 [Contact True Connections](/contact-us/)
 
 ### Start Here
@@ -83,7 +83,7 @@ Pricing: [INSERT INFO HERE]
 
 If you are ready for clear direction and consistent support, the next step is simple.
 
-[Book a Discovery Call](/contact-us/)
+[Book a Discovery Call](/contact-us/)  
 [Ask a Question](/contact-us/)
 
 ### Scope Note
