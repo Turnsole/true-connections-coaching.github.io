@@ -58,7 +58,7 @@ Services are available in person in Sandpoint, Idaho, and online.
 
 If you are ready for clear direction and practical support, the next step is simple.
 
-[Book a Discovery Call](/contact-us/)
+[Book a Discovery Call](/contact-us/)  
 [Contact True Connections](/contact-us/)
 
 ### Important Scope Note
