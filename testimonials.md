@@ -7,7 +7,7 @@ feature_image: /images/Lake_Modified.jpg
 
 Clients come to True Connections for clear direction, practical tools, and consistent support. Here is what they say about their experience.
 
-[Book a Discovery Call](/contact-us/)
+[Book a Discovery Call](/contact-us/)  
 [Contact True Connections](/contact-us/)
 
 ### Why Client Feedback Matters
@@ -67,7 +67,7 @@ Have you worked with True Connections? Your feedback helps others find support t
 
 If you are ready for practical support and real progress, let’s talk.
 
-[Book a Discovery Call](/contact-us/)
+[Book a Discovery Call](/contact-us/)  
 [Explore Services](/coaching-services/)
 
 ### Scope Note
