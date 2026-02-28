@@ -7,7 +7,7 @@ feature_image: /images/Lake_Modified.jpg
 
 If you are ready for clarity, practical support, and meaningful progress, the next step is a discovery call. Share a few details, and we will determine the best fit for coaching, consulting, or both.
 
-[Book a Discovery Call]([INSERT BOOKING PATH OR TOOL HERE])
+[Book a Discovery Call]([INSERT BOOKING PATH OR TOOL HERE])  
 [Send a Message](#contact-form)
 
 ### What to Expect
@@ -88,7 +88,7 @@ Yes. Online and in-person options are available.
 No. Services are coaching and consulting only.
 
 **How soon can I get started?**  
-Most new clients can begin within [INSERT TIMEFRAME].
+Most new clients can begin within two business days.
 
 **What if I am not sure what I need?**  
 That is common. The discovery call helps determine the best path.
