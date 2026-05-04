@@ -10,24 +10,16 @@ Production branch:
 
 master
 
-Known-good production baseline tag:
-
-production-baseline-2026-05-03
-
-Known-good production baseline commit:
-
-ad915a964bd2f43b9f0acffbf05ed4241211b6ed
-
 ## Critical Safety Rules
 
 1. Do not push directly to `master`.
-2. Do not delete, overwrite, retag, or force-update any Git tag matching `production-baseline-*`.
+2. Do not delete, overwrite, retag, or force-update restore or baseline Git tags.
 3. Do not modify, remove, or ignore `CNAME`.
 4. Do not change the production domain.
 5. Do not run destructive Git commands without explicit human approval.
-6. Do not run commands containing `rm -rf`, `git reset --hard`, `git clean`, `git push --force`, or `chflags nouchg` without explicit human approval.
+6. Do not run commands containing `rm -rf`, `git reset --hard`, `git clean`, `git push --force`, or file-immutability changes without explicit human approval.
 7. Do not edit files outside this repository unless explicitly instructed.
-8. Do not access, delete, move, rename, overwrite, modify, compress, extract, or regenerate anything in `../backups`.
+8. Do not access, delete, move, rename, overwrite, modify, compress, extract, or regenerate backup folders outside this repository.
 9. Work only on approved non-production branches.
 10. Preserve coaching/consulting scope language. Do not imply therapy, diagnosis, or clinical mental health treatment.
 
